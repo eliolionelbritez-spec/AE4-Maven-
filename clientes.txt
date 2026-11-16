@@ -1,0 +1,2 @@
+34567890;Laura;Domicilio;5555555555;regular;10000.0;1890.0;Compra de laptop|Factura F001
+45678901;Marcos;Domicilio;4444444444;premium;1000.0;0.0;
